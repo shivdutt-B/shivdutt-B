@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about web development. Here's a bit
 
 - Languages: HTML, CSS, Python, Javascript.
 - Technologies: React js, Node js, Express js, Mongo db. 
-- Tools: Git, Github, VS Code.
+- Tools: Git, Github, VS Code, Postman.
 
 ## Projects
 
