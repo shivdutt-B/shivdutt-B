@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about web development. Here's a bit
 
 Here are some projects I'm proud of:
 
-1. [Quadflix](https://quad-phi.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little 
+1. [Esther](https://quad-phi.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little 
    slow) to fetch data and then the data is presented on the screen. 
 2. [Apple home page clone](https://appleclone-sable.vercel.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
 3. [Vortex](https://quad-phi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
