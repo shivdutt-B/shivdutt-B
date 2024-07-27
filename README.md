@@ -6,10 +6,21 @@
 
 # About Me 🤏
 <p align="center">
-  <a href="mailto:myemail@example.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Contact-red?style=for-the-badge" alt="Email Me">
+  <a href="mailto:myemail@example.com" style="text-decoration: none;">
+    <div style="
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      color: white;
+      background-color: #007BFF;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    ">
+      Email Me
+    </div>
   </a>
 </p>
+
 
 - 🌐 [Portfolio]
 - 📫 How to reach me: shivdutt059@gmail.com(mailto:shivdutt059@gmail.com)
