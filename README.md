@@ -6,6 +6,8 @@
 
 ![Message Badge](https://img.shields.io/badge/Frontend-red?style=flat-rectange&logo=)
 ![Message Badge](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=)
+![Message Badge](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=)
+
  
 # About Me 🤏
 - **🌐 [Portfolio]**
