@@ -6,7 +6,7 @@
 
 # About Me 🤏
 <h4>- 🌐 [Portfolio]</h4> 
-<h4> - 📫 How to reach me:<img alt="Discourse Likes" src="https://img.shields.io/discourse/likes">
+<h4> - 📫 How to reach me:![Example Badge](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
 - 😄 Pronouns: He/Him </br>
