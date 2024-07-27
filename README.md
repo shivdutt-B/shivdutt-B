@@ -5,7 +5,8 @@
 </br>
 
 # About Me 🤏
-![Static Badge](https://img.shields.io/badge/License-MIT-blue)
+![Static Badge](https://img.shields.io/badge/Status-Online-brightgreen)
+
 
 <h4>- 🌐 [Portfolio]</h4> 
 - 📫 How to reach me: 
