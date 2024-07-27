@@ -3,7 +3,8 @@
 # **Hello, I'm Shivdutt! 👋**
 Welcome to my GitHub profile! I'm passionate about **<i>web Development</i>**. Here's a bit about me:
 
-[![Custom Badge](https://img.shields.io/badge/Video-Tutorial-blue)](https://youtu.be/VIDEO_ID)
+[Check out this video](https://youtu.be/VIDEO_ID)
+
 
 
 
