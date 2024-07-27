@@ -25,7 +25,7 @@
   </a>
 </p>
 
-![Message Badge](https://img.shields.io/badge/Backend-red?style=for-the-badge&logo=)
+![Message Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logo=)
 
 <p>
   <a href="https://skillicons.dev">
