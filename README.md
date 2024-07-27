@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/shivdutt-B/shivdutt-B/main/up_poster-modified.png" alt="Alt text" height="350" width="100%" style="border-radius: 100;">
 
-# **Hello, I'm Shivdutt! 👋**
+# **Hello, I'm Shivdutt! 👋** 
 <h4>Welcome to my GitHub profile! I'm passionate about <i>web Development</i>. Here's a bit about me:</h4>
 </br>
 
 # About Me 🤏
+You can reach me at [myemail@example.com](mailto:myemail@example.com)
 
 - 🌐 [Portfolio]
 - 📫 How to reach me: shivdutt059@gmail.com(mailto:shivdutt059@gmail.com)
