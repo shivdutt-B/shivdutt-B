@@ -6,7 +6,6 @@
 
 # About Me 🤏
 
-<h4>- 🌐 [Portfolio]</h4> <br>
 - You can reach me at [myemail@example.com](mailto:myemail@example.com)
 - 😄 Pronouns: He/Him </br>
 - 📍 Location: Pune, Maharashtra, India </br>
