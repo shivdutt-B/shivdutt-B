@@ -5,7 +5,8 @@
 </br>
 
 # About Me 🤏
-<img alt="Code Climate issues" src="https://img.shields.io/codeclimate/tech-debt/:user/:repo">
+You can reach me at [myemail@example.com](mailto:myemail@example.com)
+
 
 
 
