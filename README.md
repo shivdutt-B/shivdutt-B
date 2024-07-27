@@ -5,6 +5,10 @@
 </br>
 
 ![Message Badge](https://img.shields.io/badge/Frontend-red?style=flat-rectange&logo=)
+![Message Badge](https://img.shields.io/badge/Message-YourMessageColor?style=for-the-badge&logo=)
+![Larger Badge](https://img.shields.io/badge/Note-Important-blue?style=for-the-badge)
+![Larger Badge](https://img.shields.io/badge/Info-Check%20This-green?style=for-the-badge)
+![Larger Badge](https://img.shields.io/badge/Alert-Action%20Required-red?style=for-the-badge)
 
  
 # About Me 🤏
