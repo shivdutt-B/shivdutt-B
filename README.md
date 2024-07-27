@@ -39,12 +39,11 @@
 ![Message Badge](https://img.shields.io/badge/Others-red?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c++" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" />
   </a>
 </p>
 
-- **Others** <br>
-![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/5cf62d85-06f7-4a78-9cf5-569c84748600)
+<br>
 - **Tools** <br>
 ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/58add38c-a496-4955-a644-ddc53679fca5)![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/acf2fb78-99eb-4409-a5e5-e60446f3381c) ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/ec114cb0-3d12-4b6f-955e-55a1aca93c0b) ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/6d832910-f16c-43fa-92aa-08899898cc27) 
 
