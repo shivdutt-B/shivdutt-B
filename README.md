@@ -45,7 +45,7 @@
 
 <br>
 
-![Message Badge](https://img.shields.io/badge/Tools-violet?style=for-the-badge&logo=)
+![Message Badge](https://img.shields.io/badge/Tools-purple?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
