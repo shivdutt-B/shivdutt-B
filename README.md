@@ -5,7 +5,7 @@
 </br>
 
 # About Me 🤏
-![Text Badge](https://img.shields.io/badge/Status-Available-brightgreen?style=flat)
+![Solid Blue Badge](https://img.shields.io/badge/Status-Online-blue?style=for-the-badge)
 
 
 
