@@ -3,7 +3,8 @@
 # **Hello, I'm Shivdutt! 👋**
 Welcome to my GitHub profile! I'm passionate about **<i>web Development</i>**. Here's a bit about me:
 
-[Check out this video](https://youtu.be/VIDEO_ID)
+[![Image Alt Text](https://example.com/image.png)](https://example.com)
+
 
 
 
