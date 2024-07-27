@@ -25,13 +25,15 @@
   </a>
 </p>
 
-![Message Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logo=)
+<br>
 
+![Message Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
 - **Others** <br>
 ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/5cf62d85-06f7-4a78-9cf5-569c84748600)
 - **Tools** <br>
