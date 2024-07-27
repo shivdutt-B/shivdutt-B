@@ -4,6 +4,8 @@
 <h4>Welcome to my GitHub profile! I'm passionate about <i>web Development</i>. Here's a bit about me:</h4>
 </br>
 
+![Text Badge](https://img.shields.io/badge/Category-Feature-yellow?style=flat)
+ 
 # About Me 🤏
 - **🌐 [Portfolio]**
 - **📧 You can reach me at [myemail@example.com](mailto:shivdutt059@gmail.com)**
