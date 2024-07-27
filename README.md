@@ -6,11 +6,8 @@
 
 # About Me 🤏
 <h4>- 🌐 [Portfolio]</h4> 
-<h4> - 📫 How to reach me:<p align="center">
-  <a href="mailto:myemail@example.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Contact-red?style=for-the-badge" alt="Email Me">
-  </a>
-</p>
+<h4> - 📫 How to reach me:<img alt="Discourse Likes" src="https://img.shields.io/discourse/likes">
+
 
 - 😄 Pronouns: He/Him </br>
 - 📍 Location: Pune, Maharashtra, India </br>
