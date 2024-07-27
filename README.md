@@ -1,5 +1,4 @@
 <img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/up_poster.png" alt="Alt text" height="300" width="100%" style="border-radius: 100;">
-<img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/up_poster.png" alt="Sample Image" style="border-radius: 10px;">
 
 # Hello, I'm Shivdutt! 👋
 
