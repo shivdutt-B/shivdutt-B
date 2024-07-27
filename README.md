@@ -5,8 +5,8 @@
 </br>
 
 # About Me 🤏
-![Static Badge](![Static Badge](https://img.shields.io/badge/Status-Online-brightgreen)
-)
+![Text Badge](https://img.shields.io/badge/Status-Available-brightgreen?style=flat)
+
 
 
 <h4>- 🌐 [Portfolio]</h4> 
