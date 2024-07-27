@@ -24,9 +24,13 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-- **Backend** <br>
-![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/aa4b7bf2-c627-4ae8-8767-56d2f6efd811) ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/fc6e1539-169b-4339-96d0-e796112e8e2f)
-![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/4cd479d1-2ff5-49a4-aec3-85bda249d17a)
+
+![Custom Badge](https://img.shields.io/badge/Backend-blue?style=for-the-badge&logo=)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 - **Others** <br>
 ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/5cf62d85-06f7-4a78-9cf5-569c84748600)
 - **Tools** <br>
