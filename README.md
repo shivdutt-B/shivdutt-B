@@ -1,4 +1,4 @@
-![image](https://github.com/shivdutt-B/shivdutt-B/blob/main/up_poster.png)
+<img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/up_poster.png" alt="Alt text" height="100">
 # Hello, I'm Shivdutt! 👋
 
 Welcome to my GitHub profile! I'm passionate about web development. Here's a bit about me:
