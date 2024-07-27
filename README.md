@@ -18,8 +18,7 @@
 </br>
 
 # Skills 💻 
-
-- ![Message Badge](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=)
+![Custom Badge](https://img.shields.io/badge/Frontend-blue?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
