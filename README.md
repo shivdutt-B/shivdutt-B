@@ -21,7 +21,7 @@
 ![Custom Badge](https://img.shields.io/badge/Frontend-blue?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
   </a>
 </p>
 
