@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/shivdutt-B/shivdutt-B/main/up_poster-modified.png" alt="Alt text" height="350" width="100%" style="border-radius: 100;">
 
-# Hello, I'm Shivdutt! 👋
+# <b>Hello, I'm Shivdutt! 👋</b>
 
 Welcome to my GitHub profile! I'm passionate about <b>web development</b>. Here's a bit about me:
 
