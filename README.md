@@ -6,10 +6,10 @@
 
 # About Me 🤏
 <h4>
-- 🌐 [Portfolio]
-- 📫 How to reach me: [myemail@example.com](mailto:shivdutt059@gmail.com)
-- 😄 Pronouns: He/Him
-- 📍 Location: Pune, Maharashtra, India
+- 🌐 [Portfolio] </br>
+- 📫 How to reach me: [myemail@example.com](mailto:shivdutt059@gmail.com) </br>
+- 😄 Pronouns: He/Him </br>
+- 📍 Location: Pune, Maharashtra, India </br>
 </h4>
 
 ## Skills
