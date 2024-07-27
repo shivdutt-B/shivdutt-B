@@ -1,4 +1,4 @@
-![image](https://cdn.imgchest.com/files/l7lxcgax8n7.png)
+![image](https://github.com/shivdutt-B/shivdutt-B/blob/main/up_poster.png)
 # Hello, I'm Shivdutt! 👋
 
 Welcome to my GitHub profile! I'm passionate about web development. Here's a bit about me:
