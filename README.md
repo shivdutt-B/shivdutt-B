@@ -5,7 +5,7 @@
 </br>
 
 # About Me 🤏
-![Message Badge](https://img.shields.io/badge/Message-YourMessageColor?style=flat-square&logo=)
+![Message Badge](https://img.shields.io/badge/Message-YourMessageColor?style=flat-square&color=white&logo=)
 
 
 
