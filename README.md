@@ -5,7 +5,11 @@
 </br>
 
 # About Me 🤏
-You can reach me at [myemail@example.com](mailto:myemail@example.com)
+<p align="center">
+  <a href="mailto:myemail@example.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Contact-red?style=for-the-badge" alt="Email Me">
+  </a>
+</p>
 
 - 🌐 [Portfolio]
 - 📫 How to reach me: shivdutt059@gmail.com(mailto:shivdutt059@gmail.com)
