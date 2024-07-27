@@ -3,6 +3,9 @@
 # **Hello, I'm Shivdutt! 👋**
 Welcome to my GitHub profile! I'm passionate about **<i>web Development</i>**. Here's a bit about me:
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=OywJpxC8ONs))
+
+
 ## About Me
 
 - 🌐 [Portfolio]
