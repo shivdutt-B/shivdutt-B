@@ -7,7 +7,7 @@
 # About Me 🤏
 - You can reach me at [myemail@example.com](mailto:myemail@example.com)
 
-<h4>- 🌐 [Portfolio]</h4> 
+<h4>- 🌐 [Portfolio]</h4> <br>
 - You can reach me at [myemail@example.com](mailto:myemail@example.com)
 
 
