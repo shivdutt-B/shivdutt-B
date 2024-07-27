@@ -14,7 +14,7 @@
 # Skills 💻 
 
 - <h3>Frontend</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
