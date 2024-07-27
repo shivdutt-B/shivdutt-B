@@ -2,7 +2,7 @@
 
 # Hello, I'm Shivdutt! 👋
 
-<font size="5">Welcome to my GitHub profile!</font>
+<font size="10">Welcome to my GitHub profile!</font>
 <font size="4">I'm passionate about <b>web development</b>.</font>
 <p>Here's a bit about me:</p>
 
