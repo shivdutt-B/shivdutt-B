@@ -5,11 +5,8 @@
 </br>
 
 # About Me 🤏
-<p align="center">
-  <a href="mailto:myemail@example.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Contact-red?style=for-the-badge" alt="Email Me">
-  </a>
-</p>
+<img alt="Code Climate issues" src="https://img.shields.io/codeclimate/tech-debt/:user/:repo">
+
 
 
 - 🌐 [Portfolio]
