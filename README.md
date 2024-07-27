@@ -5,18 +5,10 @@
 </br>
 
 # About Me 🤏
-![Message Badge](https://img.shields.io/badge/Message-YourMessageColor?style=flat-square&color=white&logo=)
-
-
-
-
-
-
-
 
 <h4>- 🌐 [Portfolio]</h4> 
-- 📫 How to reach me: 
-![Static Badge](https://img.shields.io/badge/Status-Online-brightgreen)
+- 📫 How to reach me: You can reach me at [myemail@example.com](mailto:myemail@example.com)
+
 
 
 - 😄 Pronouns: He/Him </br>
