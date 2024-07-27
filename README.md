@@ -14,11 +14,7 @@
 # Skills 💻 
 
 - <h3>Frontend</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 - **Backend** <br>
 ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/aa4b7bf2-c627-4ae8-8767-56d2f6efd811) ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/fc6e1539-169b-4339-96d0-e796112e8e2f)
 ![image](https://github.com/shivdutt-B/shivdutt-B/assets/136951010/4cd479d1-2ff5-49a4-aec3-85bda249d17a)
