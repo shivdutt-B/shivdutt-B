@@ -3,12 +3,6 @@
 # **Hello, I'm Shivdutt! 👋** 
 <h4>Welcome to my GitHub profile! I'm passionate about <i>web Development</i>. Here's a bit about me:</h4>
 </br>
-
-
-![Message Badge](https://img.shields.io/badge/Frontend-red?style=for-the-badge&logo=)
-![Custom Badge](https://img.shields.io/badge/Development-blue?style=for-the-badge&logo=)
-
-
  
 # About Me 🤏
 - **🌐 [Portfolio]**
