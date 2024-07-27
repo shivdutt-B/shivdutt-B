@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/shivdutt-B/shivdutt-B/main/up_poster-modified.png" alt="Alt text" height="350" width="100%" style="border-radius: 100;">
 
 # **Hello, I'm Shivdutt! 👋**
-<h5>Welcome to my GitHub profile! I'm passionate about **<i>web Development</i>**. Here's a bit about me:</h5>
+<h3>Welcome to my GitHub profile! I'm passionate about **<i>web Development</i>**. Here's a bit about me:</h3>
 
 ## About Me
 
