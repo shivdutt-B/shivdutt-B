@@ -3,7 +3,9 @@
 # **Hello, I'm Shivdutt! 👋** 
 <h4>Welcome to my GitHub profile! I'm passionate about <i>web Development</i>. Here's a bit about me:</h4>
 </br>
- 
+
+ ![Message Badge](https://img.shields.io/badge/Message-YourMessageColor?style=flat-square&logo=)
+
 # About Me 🤏
 - **🌐 [Portfolio]**
 - **📧 You can reach me at [myemail@example.com](mailto:shivdutt059@gmail.com)**
