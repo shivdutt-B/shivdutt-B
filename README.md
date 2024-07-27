@@ -30,7 +30,16 @@
 ![Message Badge](https://img.shields.io/badge/Backend-orange?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>
+
+<br>
+
+![Message Badge](https://img.shields.io/badge/Others-red?style=for-the-badge&logo=)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c++" />
   </a>
 </p>
 
