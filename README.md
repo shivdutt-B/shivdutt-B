@@ -5,13 +5,8 @@
 </br>
 
 # About Me 🤏
-You can reach me at [myemail@example.com](mailto:myemail@example.com)
-
-
-
-
 - 🌐 [Portfolio]
-- 📫 How to reach me: shivdutt059@gmail.com(mailto:shivdutt059@gmail.com)
+- 📫 How to reach me: [myemail@example.com](mailto:myemail@example.com)
 - 😄 Pronouns: He/Him
 - 📍 Location: Pune, Maharashtra, India
 
