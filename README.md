@@ -5,7 +5,8 @@
 </br>
 
 # About Me 🤏
-![Message Badge](https://img.shields.io/badge/Alert-Action%20Required-red?style=flat-square)
+![Simple Badge](https://img.shields.io/badge/Message-Hello%20World-blue?style=flat-square)
+
 
 
 
