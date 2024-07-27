@@ -6,7 +6,7 @@
 
 # About Me 🤏
 <h4>- 🌐 [Portfolio]</h4> 
-<h4> - 📫 How to reach me: ![Example Badge](https://img.shields.io/badge/Status-Active-brightgreen)
+<h4> - 📫 How to reach me: ![Example Badge]( https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 
 - 😄 Pronouns: He/Him </br>
