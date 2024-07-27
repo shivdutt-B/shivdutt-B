@@ -2,7 +2,7 @@
 
 # Hello, I'm Shivdutt! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development. Here's a bit about me:
+Welcome to my GitHub profile! I'm passionate about <b>web development<b>. Here's a bit about me:
 
 ## About Me
 
