@@ -36,7 +36,7 @@
 
 <br>
 
-![Message Badge](https://img.shields.io/badge/Others-orange?style=for-the-badge&logo=)
+![Message Badge](https://img.shields.io/badge/Others-yellow?style=for-the-badge&logo=)
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp" />
