@@ -25,7 +25,8 @@
   </a>
 </p>
 
-![Custom Badge](https://img.shields.io/badge/Backend-blue?style=for-the-badge&logo=)
+![Red Badge](https://img.shields.io/badge/Label-Text-red?style=for-the-badge)
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
