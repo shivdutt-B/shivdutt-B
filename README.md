@@ -65,6 +65,9 @@ Here are some projects I'm proud of:
 <br>
 
 3. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
+
+<br>
+   
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap3.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
@@ -72,7 +75,10 @@ Here are some projects I'm proud of:
 
 <br>
 
-4. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
+4. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner.
+
+<br>
+
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo3.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
