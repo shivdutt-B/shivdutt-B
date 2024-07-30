@@ -51,7 +51,7 @@
 
 # Projects 🛠️
 
-[![Message Badge](https://img.shields.io/badge/Esther-red?style=for-the-badge&logo=)](https://esther-beta.vercel.app/) <br>
+[![Message Badge](https://img.shields.io/badge/Esther-red?style=flat-round&logo=)](https://esther-beta.vercel.app/) <br>
 This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="400" style="border-radius: 100;"></span>
