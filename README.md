@@ -52,17 +52,28 @@
 
 
 
-## Projects
+# Projects 🛠️
 
 Here are some projects I'm proud of:
 
-1. [Esther](https://quad-phi.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little 
+1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little 
    slow) to fetch data and then the data is presented on the screen. 
-2. [Apple home page clone](https://appleclone-sable.vercel.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
-3. [Vortex](https://quad-phi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
+2. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
+3. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
 
-## Connect with Me
+</br>
 
+# Connect with Me ☎️
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 - [LinkedIn](https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/)
 - [Twitter](https://twitter.com/shivdutt059)
 
