@@ -51,7 +51,7 @@
 
 # Projects 🛠️
 
-[![Message Badge](https://img.shields.io/badge/Esther-red?style=for-the-badge&logo=)](https://esther-beta.vercel.app/) <br>
+[![Message Badge](https://img.shields.io/badge/Esther🔗-red?style=for-the-badge&logo=)](https://esther-beta.vercel.app/) <br>
 This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="400" style="border-radius: 100;"></span>
@@ -61,7 +61,7 @@ This project shows information about various movies and web series like name, de
 
 <br>
 
-[![Message Badge](https://img.shields.io/badge/AppleClone-purple?style=for-the-badge&logo=)](https://impersona.netlify.app/) <br>
+[![Message Badge](https://img.shields.io/badge/AppleClone🔗-purple?style=for-the-badge&logo=)](https://impersona.netlify.app/) <br>
 This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
    
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="200" width="400" style="border-radius: 100;"></span>
@@ -71,7 +71,7 @@ This project is a clone of apple's home page. Made this project to demonstrate m
 
 <br>
 
-[![Message Badge](https://img.shields.io/badge/Vortex↗-blue?style=for-the-badge&logo=)](https://vortex-steel-chi.vercel.app/) <br>
+[![Message Badge](https://img.shields.io/badge/Vortex🔗-blue?style=for-the-badge&logo=)](https://vortex-steel-chi.vercel.app/) <br>
 This project is created to demonstrate my front end skills it show different cars in the most user friendly manner.
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="200" width="400" style="border-radius: 100;"></span>
