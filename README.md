@@ -54,8 +54,9 @@
 Here are some projects I'm proud of:
 
 1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
-
-<br>
+<p>
+  
+</p>
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
@@ -65,8 +66,6 @@ Here are some projects I'm proud of:
 <br>
 
 3. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
-
-<br>
    
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
@@ -77,7 +76,6 @@ Here are some projects I'm proud of:
 
 4. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner.
 
-<br>
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
