@@ -54,9 +54,6 @@
 Here are some projects I'm proud of:
 
 1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
-<p>
-  
-</p>
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
@@ -75,7 +72,6 @@ Here are some projects I'm proud of:
 <br>
 
 4. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner.
-
 
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="200" width="400" style="border-radius: 100;"></span>
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
