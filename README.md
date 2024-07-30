@@ -54,10 +54,10 @@
 Here are some projects I'm proud of:
 
 1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen. <br>
-<span><img src="" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap3.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/Screenshot%202024-06-09%20193819.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="400" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es2.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es3.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es4.png" alt="Alt text" height="200" width="400" style="border-radius: 100;"></span>
 
 2. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
 <span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="200" width="400" style="border-radius: 100;"></span>
