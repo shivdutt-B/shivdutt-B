@@ -51,9 +51,6 @@
 
 # Projects 🛠️
 
-Here are some projects I'm proud of:
-
-
 [![Message Badge](https://img.shields.io/badge/Esther-red?style=for-the-badge&logo=)](https://esther-beta.vercel.app/) <br>
 This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
 
