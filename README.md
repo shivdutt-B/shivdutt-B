@@ -53,10 +53,12 @@
 
 Here are some projects I'm proud of:
 
-1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little 
-   slow) to fetch data and then the data is presented on the screen. 
-2. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
-3. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
+1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
+<img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;">
+<img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;">
+<img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;">
+3. [Apple home page clone](https://impersona.netlify.app/) - This project is a clone of apple's home page. Made this project to demonstrate my front end skills.
+4. [Vortex](https://vortex-steel-chi.vercel.app/) - This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. 
 
 </br>
 
@@ -64,6 +66,7 @@ Here are some projects I'm proud of:
   <a href="https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
   <a href="https://twitter.com/shivdutt059">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
@@ -72,5 +75,5 @@ Here are some projects I'm proud of:
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🤝
 
