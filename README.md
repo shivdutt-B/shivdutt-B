@@ -47,10 +47,7 @@
   </a>
 </p>
 
-
-
-
-
+<br>
 
 # Projects 🛠️
 
@@ -74,7 +71,11 @@ Here are some projects I'm proud of:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-- [LinkedIn](https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/)
+- [<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>](https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/)
 - [Twitter](https://twitter.com/shivdutt059)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
