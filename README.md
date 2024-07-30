@@ -62,21 +62,10 @@ Here are some projects I'm proud of:
 
 # Connect with Me ☎️
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-- [<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>](https://www.linkedin.com/in/shivdutt-bhadakwad-07a462280/)
-- [Twitter](https://twitter.com/shivdutt059)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
