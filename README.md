@@ -53,7 +53,7 @@
 
 Here are some projects I'm proud of:
 
-1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen.
+1. [Esther](https://esther-beta.vercel.app/) - This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen. <br>
 <span><img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;"></span>
 <span><img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;"></span>
 <span><img src="https://cdn.pixabay.com/photo/2024/04/06/09/20/monochrome-8678955_640.jpg" alt="Alt text" height="200" width="200" style="border-radius: 100;"></span>
