@@ -66,6 +66,16 @@ Here are some projects I'm proud of:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+<p>
+  <a href="https://twitter.com/shivdutt059">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+<p>
+  <a href="https://www.instagram.com/_shivdutt._/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
