@@ -50,7 +50,7 @@
 <br>
 
 # Projects 🛠️
-[![Message Badge](https://img.shields.io/badge/Meera&#8599;-red?style=for-the-badge&logo=)](https://meera-kohl.vercel.app/) <br>
+[![Message Badge](https://img.shields.io/badge/Meera&#8599;-orange?style=for-the-badge&logo=)](https://meera-kohl.vercel.app/) <br>
 Discover a world of quality and convenience at Meera, where shopping for fashion, electronics, home goods is made easy. Our carefully curated collection offers something for everyone, whether you're looking for the latest trends, essential items, or unique finds. <br>
  <a href="https://meera-kohl.vercel.app/">Meera</a>
 
