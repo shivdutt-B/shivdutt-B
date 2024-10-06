@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/shivdutt-B/shivdutt-B/main/up_poster-modified.png" alt="Alt text" height="350" width="100%" style="border-radius: 100;">
+<img src="[https://raw.githubusercontent.com/shivdutt-B/shivdutt-B/main/up_poster-modified.png](https://i.pinimg.com/originals/e6/52/d8/e652d892edfc98b6fb3b6385c229916e.gif)" alt="Alt text" height="350" width="100%" style="border-radius: 100;">
 
 # **Hello, I'm Shivdutt! 👋** 
 **Welcome to my GitHub profile! I'm passionate about ![Message Badge](https://img.shields.io/badge/WebDevelopment-grey?style=flat-round&logo=).**
