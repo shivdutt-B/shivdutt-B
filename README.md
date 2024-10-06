@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/e6/52/d8/e652d892edfc98b6fb3b6385c229916e.gif" alt="Alt text" height="500" width="100%" style="border-radius: 100;">
-<p>Let's Cook</p>
+<p>You Know the Business and I Know the Chemistry</p>
 
 # **Hello, I'm Shivdutt! 👋** 
 **Welcome to my GitHub profile! I'm passionate about ![Message Badge](https://img.shields.io/badge/WebDevelopment-grey?style=flat-round&logo=).**
