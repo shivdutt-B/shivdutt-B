@@ -52,16 +52,16 @@
 Discover a world of quality and convenience at Meera, where shopping for fashion, electronics, home goods is made easy. Our carefully curated collection offers something for everyone, whether you're looking for the latest trends, essential items, or unique finds. <br>
  <a href="https://meera-kohl.vercel.app/">Meera</a>
 
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-1.png" height="100" width="200" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-2.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-3.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-4.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-5.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-6.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-7.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-8.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-9.png" height="200" width="400" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-10.png" height="200" width="400" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-1.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-2.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-3.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-4.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-5.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-6.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-7.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-8.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-9.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-10.png" height="150" width="250" style="border-radius: 100;"></span>
 
 <br>
 
