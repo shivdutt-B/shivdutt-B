@@ -52,16 +52,16 @@
 Discover a world of quality and convenience at Meera, where shopping for fashion, electronics, home goods is made easy. Our carefully curated collection offers something for everyone, whether you're looking for the latest trends, essential items, or unique finds. <br>
  <a href="https://meera-kohl.vercel.app/">Meera</a>
 
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-1.png" height="180" width="300" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-2.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-3.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-4.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-5.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-6.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-7.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-8.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-9.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-10.png" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-1.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-2.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-3.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-4.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-5.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-6.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-7.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-8.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-9.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://raw.githubusercontent.com/shivdutt-B/meera/main/readme.assets/image-10.png" height="200" width="350" style="border-radius: 100;"></span>
 
 <br>
 
@@ -70,10 +70,10 @@ Discover a world of quality and convenience at Meera, where shopping for fashion
 This project shows information about various movies and web series like name, description, run time, release data etc. It uses third party api (the api's are little slow) to fetch data and then the data is presented on the screen. <br>
  <a href="https://esther-beta.vercel.app/">Esther</a>
 
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es2.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es3.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es4.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es1.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es2.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es3.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/es4.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
 
 <br>
 
@@ -81,10 +81,10 @@ This project shows information about various movies and web series like name, de
 This project is a clone of apple's home page. Made this project to demonstrate my front end skills. <br>
  <a href="https://impersona.netlify.app/">Apple</a>
    
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap2.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap3.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/Screenshot%202024-06-09%20193819.png" alt="Alt text" height="150" width="250"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap1.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap2.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/ap3.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/Screenshot%202024-06-09%20193819.png" alt="Alt text" height="200" width="350"></span>
 
 <br>
 
@@ -92,10 +92,10 @@ This project is a clone of apple's home page. Made this project to demonstrate m
 This project is created to demonstrate my front end skills it show different cars in the most user friendly manner. <br>
 <a href="https://vortex-steel-chi.vercel.app/">Vortex</a>
 
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo2.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo3.png" alt="Alt text" height="150" width="250" style="border-radius: 100;"></span>
-<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo4.png" alt="Alt text" height="150" width="250"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo1.png" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo2.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo3.png" alt="Alt text" height="200" width="350" style="border-radius: 100;"></span>
+<span><img src="https://github.com/shivdutt-B/shivdutt-B/blob/main/Assets/vo4.png" alt="Alt text" height="200" width="350"></span>
 
 </br>
 
