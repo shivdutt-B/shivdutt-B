@@ -26,10 +26,6 @@
   designs that adapt seamlessly to different screen sizes.<br>
   Tech Stack: `HTML`, `CSS`, `Javascript`
 
-#### 🔭 Future Projects
-  `🕶 2D Metaverse` <br>
-  `🌐 Web Hosting Service` <br>
-  `🎴 AI Short video generator`
 
 <!--
 **laishawadhwa/laishawadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
