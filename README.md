@@ -33,7 +33,7 @@
   "aboutMe": [
   "Hi, I'm Shivdutt Bhadakwad — a full-stack developer and Computer Engineering student based in Pune, India.",
   "I’m passionate about building clean, scalable systems and leveraging automation to solve real-world challenges.",
-  "Driven by curiosity and collaboration, I’m always open to learning new things and working on impactful ideas — feel free to connect!"
+  "I’m always open to learning new things and working on impactful ideas — feel free to connect!"
     ]
 }
 ```
